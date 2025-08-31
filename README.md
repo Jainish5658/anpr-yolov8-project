@@ -1,12 +1,5 @@
 # Automatic Number Plate Recognition with YOLOv8
 
-<p align="center">
-<a href="https://www.youtube.com/watch?v=fyJB1t0o0ms">
-    <img width="600" src="https://utils-computervisiondeveloper.s3.amazonaws.com/thumbnails/with_play_button/anpr_yolo2.jpg" alt="Watch the video">
-    </br>Watch on YouTube: Automatic number plate recognition with Python, Yolov8 and EasyOCR !
-</a>
-</p>
-
 A comprehensive automatic number plate recognition (ANPR) system built with Python, YOLOv8, and EasyOCR. This project detects vehicles in video streams, identifies license plates, and extracts the text from them using computer vision and deep learning techniques.
 
 ## Features
