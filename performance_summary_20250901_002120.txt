@@ -1,0 +1,6 @@
+Performance Summary - 2025-09-01 00:21:20.713688
+==================================================
+Overall Score: 84.0/100
+Detection Rate: 140.10%
+OCR Success Rate: 51.93%
+Tracking Consistency: 100.00%
